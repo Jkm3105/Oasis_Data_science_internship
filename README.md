@@ -1,5 +1,5 @@
 # Oasis_Data_science_internship
-Here I in this Internship i was assigned Five task out of which i completed Four Task.The aim of doing this Internship is to enhance my skills and knowledge in Data Science domain and to showcase my skills.
+Here I in this Internship i was assigned Five task out of which i completed Four Task.The aim of doing this Internship is to enhance my skills and knowledge in Data Science domain and to showcase my skills....
 
 Following are the tasks lists which i implemented..
 Task-1:  IRIS FLOWER CLASSIFICATION
